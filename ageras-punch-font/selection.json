@@ -22,12 +22,12 @@
       "properties": {
         "order": 3,
         "id": 0,
-        "name": "Punch-icon",
+        "name": "punch",
         "prevSize": 32,
         "code": 59648
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 3,
       "iconIdx": 0
     },
     {
@@ -61,12 +61,12 @@
       "properties": {
         "order": 2,
         "id": 1,
-        "name": "Task-icon",
+        "name": "task",
         "prevSize": 32,
         "code": 59649
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 3,
       "iconIdx": 1
     }
   ],
@@ -84,7 +84,7 @@
       "metadata": {
         "fontFamily": "ageras-punch-font",
         "majorVersion": 1,
-        "minorVersion": 1,
+        "minorVersion": 2,
         "description": "Ageras Punch Font"
       },
       "metrics": {
@@ -95,8 +95,8 @@
       "embed": false,
       "showSelector": true,
       "showMetrics": true,
-      "showMetadata": false,
-      "showVersion": false
+      "showMetadata": true,
+      "showVersion": true
     },
     "imagePref": {
       "prefix": "icon-",
