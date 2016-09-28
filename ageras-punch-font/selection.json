@@ -11,23 +11,23 @@
         ],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "grid": 0,
         "tags": [
           "Punch icon"
-        ]
+        ],
+        "grid": 0
       },
       "attrs": [
         {}
       ],
       "properties": {
         "order": 3,
-        "id": 2,
+        "id": 0,
         "name": "Punch-icon",
         "prevSize": 32,
         "code": 59648
       },
       "setIdx": 0,
-      "setId": 4,
+      "setId": 2,
       "iconIdx": 0
     },
     {
@@ -38,19 +38,19 @@
           "M58.435 584.348h1227.13c32.273 0 58.435 26.162 58.435 58.435v0c0 32.273-26.162 58.435-58.435 58.435h-1227.13c-32.273 0-58.435-26.162-58.435-58.435v-0c0-32.273 26.162-58.435 58.435-58.435z",
           "M58.435 876.522h876.522c32.273 0 58.435 26.162 58.435 58.435v0c0 32.273-26.162 58.435-58.435 58.435h-876.522c-32.273 0-58.435-26.162-58.435-58.435v-0c0-32.273 26.162-58.435 58.435-58.435z"
         ],
+        "width": 1344,
         "attrs": [
           {},
           {},
           {},
           {}
         ],
-        "width": 1344,
         "isMulticolor": false,
         "isMulticolor2": false,
-        "grid": 0,
         "tags": [
           "Task icon"
-        ]
+        ],
+        "grid": 0
       },
       "attrs": [
         {},
@@ -66,13 +66,13 @@
         "code": 59649
       },
       "setIdx": 0,
-      "setId": 4,
+      "setId": 2,
       "iconIdx": 1
     }
   ],
   "height": 1024,
   "metadata": {
-    "name": "icomoon"
+    "name": "ageras-punch-font"
   },
   "preferences": {
     "showGlyphs": true,
@@ -80,11 +80,12 @@
     "showQuickUse2": true,
     "showSVGs": true,
     "fontPref": {
-      "prefix": "icon-",
+      "prefix": "ap-",
       "metadata": {
-        "fontFamily": "icomoon",
+        "fontFamily": "ageras-punch-font",
         "majorVersion": 1,
-        "minorVersion": 0
+        "minorVersion": 1,
+        "description": "Ageras Punch Font"
       },
       "metrics": {
         "emSize": 1024,
@@ -92,8 +93,8 @@
         "whitespace": 50
       },
       "embed": false,
-      "showSelector": false,
-      "showMetrics": false,
+      "showSelector": true,
+      "showMetrics": true,
       "showMetadata": false,
       "showVersion": false
     },
