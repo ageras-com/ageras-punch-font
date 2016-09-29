@@ -4,6 +4,39 @@
     {
       "icon": {
         "paths": [
+          "M43.272 60.34c33.325-33.325 87.355-33.325 120.68 0l724.077 724.077c33.325 33.325 33.325 87.355 0 120.68s-87.355 33.325-120.68 0l-724.077-724.077c-33.325-33.325-33.325-87.355 0-120.68z",
+          "M1621.888 60.34c33.325 33.325 33.325 87.355 0 120.68l-724.077 724.077c-33.325 33.325-87.355 33.325-120.68 0s-33.325-87.355 0-120.68l724.077-724.077c33.325-33.325 87.355-33.325 120.68 0z"
+        ],
+        "attrs": [
+          {},
+          {}
+        ],
+        "width": 1707,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Arrow down icon"
+        ]
+      },
+      "attrs": [
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 11,
+        "id": 2,
+        "name": "Arrow-down-icon",
+        "prevSize": 32,
+        "code": 59650
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
           "M12.208 371.344l87.152-87.184c0 0 76.128 54.64 163.168-32.4 87.024-87.024 23.952-157.664 23.952-157.664l82.272-82.256 642.48 642.496-84.48 84.528c0 0-46.688-51.936-143.808 45.2-97.088 97.088-48.928 147.504-48.928 147.504l-80.768 80.8-641.040-641.024z"
         ],
         "attrs": [
@@ -20,15 +53,15 @@
         {}
       ],
       "properties": {
-        "order": 3,
+        "order": 12,
         "id": 0,
         "name": "punch",
         "prevSize": 32,
         "code": 59648
       },
       "setIdx": 0,
-      "setId": 3,
-      "iconIdx": 0
+      "setId": 0,
+      "iconIdx": 1
     },
     {
       "icon": {
@@ -59,15 +92,15 @@
         {}
       ],
       "properties": {
-        "order": 2,
+        "order": 13,
         "id": 1,
         "name": "task",
         "prevSize": 32,
         "code": 59649
       },
       "setIdx": 0,
-      "setId": 3,
-      "iconIdx": 1
+      "setId": 0,
+      "iconIdx": 2
     }
   ],
   "height": 1024,
@@ -84,7 +117,7 @@
       "metadata": {
         "fontFamily": "ageras-punch-font",
         "majorVersion": 1,
-        "minorVersion": 2,
+        "minorVersion": 3,
         "description": "Ageras Punch Font"
       },
       "metrics": {
