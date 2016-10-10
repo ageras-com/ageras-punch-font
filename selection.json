@@ -11,23 +11,23 @@
         ],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "grid": 0,
         "tags": [
           "Star"
-        ]
+        ],
+        "grid": 0
       },
       "attrs": [
         {}
       ],
       "properties": {
         "order": 15,
-        "id": 3,
+        "id": 0,
         "name": "star",
         "prevSize": 32,
         "code": 59651
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 2,
       "iconIdx": 0
     },
     {
@@ -36,31 +36,31 @@
           "M43.272 60.34c33.325-33.325 87.355-33.325 120.68 0l724.077 724.077c33.325 33.325 33.325 87.355 0 120.68s-87.355 33.325-120.68 0l-724.077-724.077c-33.325-33.325-33.325-87.355 0-120.68z",
           "M1621.888 60.34c33.325 33.325 33.325 87.355 0 120.68l-724.077 724.077c-33.325 33.325-87.355 33.325-120.68 0s-33.325-87.355 0-120.68l724.077-724.077c33.325-33.325 87.355-33.325 120.68 0z"
         ],
+        "width": 1707,
         "attrs": [
           {},
           {}
         ],
-        "width": 1707,
         "isMulticolor": false,
         "isMulticolor2": false,
-        "grid": 0,
         "tags": [
           "Arrow down icon"
-        ]
+        ],
+        "grid": 0
       },
       "attrs": [
         {},
         {}
       ],
       "properties": {
-        "order": 16,
-        "id": 2,
-        "name": "arrow",
+        "order": 2,
+        "id": 1,
+        "name": "arrow-down",
         "prevSize": 32,
         "code": 59650
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 2,
       "iconIdx": 1
     },
     {
@@ -83,13 +83,13 @@
       ],
       "properties": {
         "order": 17,
-        "id": 0,
+        "id": 2,
         "name": "punch",
         "prevSize": 32,
         "code": 59648
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 2,
       "iconIdx": 2
     },
     {
@@ -122,13 +122,13 @@
       ],
       "properties": {
         "order": 18,
-        "id": 1,
+        "id": 3,
         "name": "task",
         "prevSize": 32,
         "code": 59649
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 2,
       "iconIdx": 3
     }
   ],
@@ -146,7 +146,7 @@
       "metadata": {
         "fontFamily": "ageras-punch-font",
         "majorVersion": 1,
-        "minorVersion": 6,
+        "minorVersion": 7,
         "description": "Ageras Punch Font"
       },
       "metrics": {
