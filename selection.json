@@ -8,18 +8,18 @@
           "M102.4 409.6h1220.378c56.554 0 102.4 45.846 102.4 102.4s-45.846 102.4-102.4 102.4h-1220.378c-56.554 0-102.4-45.846-102.4-102.4s45.846-102.4 102.4-102.4z",
           "M102.4 819.2h1220.378c56.554 0 102.4 45.846 102.4 102.4s-45.846 102.4-102.4 102.4h-1220.378c-56.554 0-102.4-45.846-102.4-102.4s45.846-102.4 102.4-102.4z"
         ],
+        "width": 1451,
         "attrs": [
           {},
           {},
           {}
         ],
-        "width": 1451,
         "isMulticolor": false,
         "isMulticolor2": false,
-        "grid": 0,
         "tags": [
           "icon burger"
-        ]
+        ],
+        "grid": 0
       },
       "attrs": [
         {},
@@ -28,13 +28,13 @@
       ],
       "properties": {
         "order": 42,
-        "id": 4,
+        "id": 0,
         "name": "burger",
         "prevSize": 32,
         "code": 59653
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 7,
       "iconIdx": 0
     },
     {
@@ -45,22 +45,22 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {},
         "tags": [
           "Star"
         ],
-        "grid": 0,
-        "colorPermutations": {}
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "order": 38,
-        "id": 0,
+        "id": 1,
         "name": "star",
         "prevSize": 32,
         "code": 59651
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 7,
       "iconIdx": 1
     },
     {
@@ -73,22 +73,22 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {},
         "tags": [
           "Arrow down icon"
         ],
-        "grid": 0,
-        "colorPermutations": {}
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "order": 37,
-        "id": 1,
+        "id": 2,
         "name": "arrow-down",
         "prevSize": 32,
         "code": 59650
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 7,
       "iconIdx": 2
     },
     {
@@ -99,22 +99,22 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {},
         "tags": [
           "Punch icon"
         ],
-        "grid": 0,
-        "colorPermutations": {}
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "order": 17,
-        "id": 2,
+        "id": 3,
         "name": "punch",
         "prevSize": 32,
         "code": 59648
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 7,
       "iconIdx": 3
     },
     {
@@ -129,22 +129,22 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {},
         "tags": [
           "Task icon"
         ],
-        "grid": 0,
-        "colorPermutations": {}
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "order": 18,
-        "id": 3,
+        "id": 4,
         "name": "task",
         "prevSize": 32,
         "code": 59649
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 7,
       "iconIdx": 4
     },
     {
@@ -175,7 +175,7 @@
         "code": 59919
       },
       "setIdx": 1,
-      "setId": 1,
+      "setId": 6,
       "iconIdx": 0
     },
     {
@@ -206,7 +206,7 @@
         "code": 59920
       },
       "setIdx": 1,
-      "setId": 1,
+      "setId": 6,
       "iconIdx": 1
     },
     {
@@ -236,8 +236,37 @@
         "code": 60127
       },
       "setIdx": 1,
-      "setId": 1,
+      "setId": 6,
       "iconIdx": 2
+    },
+    {
+      "icon": {
+        "paths": [
+          "M576 706.612v-52.78c70.498-39.728 128-138.772 128-237.832 0-159.058 0-288-192-288s-192 128.942-192 288c0 99.060 57.502 198.104 128 237.832v52.78c-217.102 17.748-384 124.42-384 253.388h896c0-128.968-166.898-235.64-384-253.388z"
+        ],
+        "tags": [
+          "user",
+          "profile",
+          "avatar",
+          "person",
+          "member"
+        ],
+        "defaultCode": 59761,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "user, profile2",
+        "name": "user",
+        "order": 23,
+        "id": 114,
+        "prevSize": 32,
+        "code": 59761
+      },
+      "setIdx": 6,
+      "setId": 1,
+      "iconIdx": 113
     },
     {
       "icon": {
@@ -266,7 +295,7 @@
         "code": 59652
       },
       "setIdx": 2,
-      "setId": 0,
+      "setId": 5,
       "iconIdx": 0
     }
   ],

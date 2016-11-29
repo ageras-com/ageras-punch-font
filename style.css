@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ageras-punch-font';
-  src:  url('fonts/ageras-punch-font.eot?f12jb');
-  src:  url('fonts/ageras-punch-font.eot?f12jb#iefix') format('embedded-opentype'),
-    url('fonts/ageras-punch-font.ttf?f12jb') format('truetype'),
-    url('fonts/ageras-punch-font.woff?f12jb') format('woff'),
-    url('fonts/ageras-punch-font.svg?f12jb#ageras-punch-font') format('svg');
+  src:  url('fonts/ageras-punch-font.eot?6nvpf7');
+  src:  url('fonts/ageras-punch-font.eot?6nvpf7#iefix') format('embedded-opentype'),
+    url('fonts/ageras-punch-font.ttf?6nvpf7') format('truetype'),
+    url('fonts/ageras-punch-font.woff?6nvpf7') format('woff'),
+    url('fonts/ageras-punch-font.svg?6nvpf7#ageras-punch-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -47,6 +47,9 @@
 }
 .ap-file-pdf:before {
   content: "\eadf";
+}
+.ap-user:before {
+  content: "\e971";
 }
 .ap-lock-open:before {
   content: "\e904";
