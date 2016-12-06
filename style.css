@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ageras-punch-font';
-  src:  url('fonts/ageras-punch-font.eot?6nvpf7');
-  src:  url('fonts/ageras-punch-font.eot?6nvpf7#iefix') format('embedded-opentype'),
-    url('fonts/ageras-punch-font.ttf?6nvpf7') format('truetype'),
-    url('fonts/ageras-punch-font.woff?6nvpf7') format('woff'),
-    url('fonts/ageras-punch-font.svg?6nvpf7#ageras-punch-font') format('svg');
+  src:  url('fonts/ageras-punch-font.eot?xwfsrr');
+  src:  url('fonts/ageras-punch-font.eot?xwfsrr#iefix') format('embedded-opentype'),
+    url('fonts/ageras-punch-font.ttf?xwfsrr') format('truetype'),
+    url('fonts/ageras-punch-font.woff?xwfsrr') format('woff'),
+    url('fonts/ageras-punch-font.svg?xwfsrr#ageras-punch-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ap-magnify:before {
+  content: "\e906";
+}
+.ap-lock-open:before {
+  content: "\e904";
+}
 .ap-burger:before {
   content: "\e905";
 }
@@ -50,8 +56,5 @@
 }
 .ap-user:before {
   content: "\e971";
-}
-.ap-lock-open:before {
-  content: "\e904";
 }
 
