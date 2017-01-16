@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ageras-punch-font';
-  src:  url('fonts/ageras-punch-font.eot?eyfek4');
-  src:  url('fonts/ageras-punch-font.eot?eyfek4#iefix') format('embedded-opentype'),
-    url('fonts/ageras-punch-font.ttf?eyfek4') format('truetype'),
-    url('fonts/ageras-punch-font.woff?eyfek4') format('woff'),
-    url('fonts/ageras-punch-font.svg?eyfek4#ageras-punch-font') format('svg');
+  src:  url('fonts/ageras-punch-font.eot?sktd54');
+  src:  url('fonts/ageras-punch-font.eot?sktd54#iefix') format('embedded-opentype'),
+    url('fonts/ageras-punch-font.ttf?sktd54') format('truetype'),
+    url('fonts/ageras-punch-font.woff?sktd54') format('woff'),
+    url('fonts/ageras-punch-font.svg?sktd54#ageras-punch-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ap-exclamation:before {
+  content: "\e908";
+}
 .ap-filter:before {
   content: "\e907";
 }
