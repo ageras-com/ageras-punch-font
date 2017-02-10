@@ -4,6 +4,36 @@
     {
       "icon": {
         "paths": [
+          "M102.4 0c-56.832 0-102.4 45.568-102.4 102.4v819.2c0 56.554 45.846 102.4 102.4 102.4h614.4c56.554 0 102.4-45.846 102.4-102.4v-614.4l-307.2-307.2h-409.6z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "width": 819,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 14,
+        "tags": [
+          "File"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 51,
+        "id": 9,
+        "name": "file",
+        "prevSize": 32,
+        "code": 59659
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
           "M844.238 135.137c-89.73-83.845-209.339-135.137-340.534-135.137-277.742 0-503.704 229.683-503.704 512s225.961 512 503.704 512c138.649 0 264.374-57.242 355.544-149.688l-99.683-101.325c-65.633 66.478-156.108 107.653-255.861 107.653-199.98 0-362.667-165.366-362.667-368.64s162.686-368.64 362.667-368.64c92.319 0 176.629 35.297 240.72 93.235l-119.831 121.805h342.519v-348.16l-122.873 124.897z"
         ],
         "attrs": [
@@ -29,7 +59,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 0
+      "iconIdx": 1
     },
     {
       "icon": {
@@ -59,7 +89,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 13
+      "iconIdx": 14
     },
     {
       "icon": {
@@ -89,7 +119,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 14
+      "iconIdx": 15
     },
     {
       "icon": {
@@ -119,7 +149,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 1
+      "iconIdx": 2
     },
     {
       "icon": {
@@ -152,7 +182,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 2
+      "iconIdx": 3
     },
     {
       "icon": {
@@ -181,7 +211,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 3
+      "iconIdx": 4
     },
     {
       "icon": {
@@ -217,7 +247,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 4
+      "iconIdx": 5
     },
     {
       "icon": {
@@ -243,7 +273,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 5
+      "iconIdx": 6
     },
     {
       "icon": {
@@ -271,7 +301,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 6
+      "iconIdx": 7
     },
     {
       "icon": {
@@ -297,7 +327,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 7
+      "iconIdx": 8
     },
     {
       "icon": {
@@ -327,7 +357,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 8
+      "iconIdx": 9
     },
     {
       "icon": {
@@ -358,7 +388,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 9
+      "iconIdx": 10
     },
     {
       "icon": {
@@ -389,7 +419,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 10
+      "iconIdx": 11
     },
     {
       "icon": {
@@ -419,7 +449,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 11
+      "iconIdx": 12
     },
     {
       "icon": {
@@ -450,7 +480,7 @@
       },
       "setIdx": 0,
       "setId": 1,
-      "iconIdx": 12
+      "iconIdx": 13
     }
   ],
   "height": 1024,
@@ -467,7 +497,7 @@
       "metadata": {
         "fontFamily": "ageras-punch-font",
         "majorVersion": 1,
-        "minorVersion": 13,
+        "minorVersion": 14,
         "description": "Ageras Punch Font"
       },
       "metrics": {
@@ -491,6 +521,7 @@
     },
     "historySize": 100,
     "showCodes": true,
-    "gridSize": 16
+    "gridSize": 16,
+    "showLiga": true
   }
 }
