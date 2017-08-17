@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ageras-punch-font';
-  src:  url('fonts/ageras-punch-font.eot?oj4o5p');
-  src:  url('fonts/ageras-punch-font.eot?oj4o5p#iefix') format('embedded-opentype'),
-    url('fonts/ageras-punch-font.ttf?oj4o5p') format('truetype'),
-    url('fonts/ageras-punch-font.woff?oj4o5p') format('woff'),
-    url('fonts/ageras-punch-font.svg?oj4o5p#ageras-punch-font') format('svg');
+  src:  url('fonts/ageras-punch-font.eot?krzphz');
+  src:  url('fonts/ageras-punch-font.eot?krzphz#iefix') format('embedded-opentype'),
+    url('fonts/ageras-punch-font.ttf?krzphz') format('truetype'),
+    url('fonts/ageras-punch-font.woff?krzphz') format('woff'),
+    url('fonts/ageras-punch-font.svg?krzphz#ageras-punch-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -60,6 +60,12 @@
 }
 .ap-task:before {
   content: "\e901";
+}
+.ap-add:before {
+  content: "\e911";
+}
+.ap-remove:before {
+  content: "\e912";
 }
 .ap-cross:before {
   content: "\ea0f";
