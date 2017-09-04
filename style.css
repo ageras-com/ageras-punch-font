@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ageras-punch-font';
-  src:  url('fonts/ageras-punch-font.eot?krzphz');
-  src:  url('fonts/ageras-punch-font.eot?krzphz#iefix') format('embedded-opentype'),
-    url('fonts/ageras-punch-font.ttf?krzphz') format('truetype'),
-    url('fonts/ageras-punch-font.woff?krzphz') format('woff'),
-    url('fonts/ageras-punch-font.svg?krzphz#ageras-punch-font') format('svg');
+  src:  url('fonts/ageras-punch-font.eot?wqv3b4');
+  src:  url('fonts/ageras-punch-font.eot?wqv3b4#iefix') format('embedded-opentype'),
+    url('fonts/ageras-punch-font.ttf?wqv3b4') format('truetype'),
+    url('fonts/ageras-punch-font.woff?wqv3b4') format('woff'),
+    url('fonts/ageras-punch-font.svg?wqv3b4#ageras-punch-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -78,6 +78,9 @@
 }
 .ap-user:before {
   content: "\e971";
+}
+.ap-phone:before {
+  content: "\e913";
 }
 .ap-credit-card:before {
   content: "\e90e";
